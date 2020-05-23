@@ -51,3 +51,7 @@ A la hora de rediseñar tenemos que saber que es lo que busca el usuario- **Meta
 -Localización en sitio no muy concurridos y con buen ambiente.
 
 -Tarifas claras con información pertinente.
+
+## 1.4 Usability Review:
+
+[Usabilty Review](Usability-review-final.pdf)
