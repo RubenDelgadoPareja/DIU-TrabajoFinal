@@ -9,8 +9,8 @@ la página web de una empresa de coworking
 
 ------
 
-## 1.Análisis
+# 1.Análisis
 
-# 1.1 Análisis Competitivo:
+## 1.1 Análisis Competitivo:
 
 
