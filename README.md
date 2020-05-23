@@ -36,7 +36,7 @@ Como estamos haciendo usuarios para una página web de coworking ambas tendrán 
 
 ## 1.3 Puntos que evitar / Metas:
 
-A la hora de rediseñar la página web tenemos que tener presente que debemos evitar: 
+A la hora de rediseñar la página web tenemos que tener presente que debemos evitar- **Puntos a evitar**
 
 -Dificultad de navegación.
 
@@ -44,7 +44,7 @@ A la hora de rediseñar la página web tenemos que tener presente que debemos ev
 
 -Información erronea o desactualizada.
 
-A la hora de rediseñar tenemos que saber que es lo que busca el usuario: 
+A la hora de rediseñar tenemos que saber que es lo que busca el usuario- **Metas**
 
 -Locales adecuados para el trabajo.
 
