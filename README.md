@@ -39,15 +39,11 @@ Como estamos haciendo usuarios para una página web de coworking ambas tendrán 
 A la hora de rediseñar la página web tenemos que tener presente que debemos evitar: 
 
 -Dificultad de navegación
-
 -La página esté caida o tenga errores 
-
 -Información erronea o desactualizada
 
 A la hora de rediseñar tenemos que saber que es lo que busca el usuario: 
 
 -Locales adecuados para el trabajo
-
 -Localización en sitio no muy concurridos y con buen ambiente
-
 -Tarifas claras con información pertinente
