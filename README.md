@@ -63,6 +63,7 @@ Nota: 56 (Moderate)
 # 2.Diseño UX
 
 ## 2.1 Feedback Capture Grid
+![Feedback Capture Grid](feedback.png)
 
 ## 2.2 Wireframe
 ![Wireframe](wireframe.png)
