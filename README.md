@@ -66,3 +66,8 @@ Nota: 56 (Moderate)
 
 ## 2.2 Wireframe
 
+## Logotipo 
+
+
+# Valoración Personal
+
