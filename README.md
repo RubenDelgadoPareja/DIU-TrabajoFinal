@@ -75,4 +75,5 @@ La principal propuesta que se va a llevar a cabo es el rediseño de lo necesario
 ![Logotipo](logotipo.png)
 
 # Valoración Personal
+Desde mi punto de vista he aportado ciertos cambios necesarios que podrían mejorar en varios aspectos la página de erranT. Al igual que he añadido un logotipo que creo que le pega más que el anterior, tiene el mismo tema de colores que la página ya que no he considerado modificarlo , aunque es cierto que podría mejorarse. Por otra parte me gustaría haber ayudado a que está página pueda ser usada por todo tipo de personas, inclusive las que tienen especial dificultad a la hora de navegar por Internet. En conclusión, como el tiempo era limitido he modificado las partes cruciales desde mi punto de vista.
 
