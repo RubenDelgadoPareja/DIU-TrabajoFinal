@@ -34,4 +34,7 @@ Como estamos haciendo usuarios para una página web de coworking ambas tendrán 
 ![Journey Map Rosa](rosa_JM.png)
 ![Journey Map Alfredo](alfredo_JM.png)
 
+## 1.3 Puntos que evitar / Metas:
 
+A la hora de rediseñar la página web tenemos que tener presente que debemos evitar: 
+-
