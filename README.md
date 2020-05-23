@@ -24,9 +24,12 @@ Para realizar este análisis comparativo voy a comparar la página de erranT con
 
 **-Diseño**: La página de erranT tiene fallos que se muestran en la portada y no queda muy  buen, aunque los temas de los colores son adecuados y correctos pero poco llamativos a diferencia de Coworkingspain donde se ve todo con mayor claridad y facilidad
 
-## 1.2 Personas:
+## 1.2 Personas y User Journey Map:
 
 Para observar la eficacia de la página web voy a crear a dos usuarios ficticios que usarán la página web de erranT: 
 ![Rosa Dominguez](rosa.png)
 ![Alfredo Garcia](alfredo.png)
+Como estamos haciendo usuarios para una página web de coworking ambas tendrán , de alguna manera, hacer uso de dicha página web
+
+
 
