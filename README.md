@@ -65,6 +65,9 @@ Nota: 56 (Moderate)
 ## 2.1 Feedback Capture Grid
 ![Feedback Capture Grid](feedback.png)
 
+### Propuestas de valor:
+La principal propuesta que se va a llevar a cabo es el rediseño de lo necesario en la página para mejorar la accesibilidad del usuario y ayudarle en su seguimiento de la página , al igual que en un futuro se podría expandir la página web para que englobe más ciudades y reuna las zonas de coworking. Junto a esto también podría desarrollarse una aplicación para móvil
+
 ## 2.2 Wireframe
 ![Wireframe](wireframe.png)
 
