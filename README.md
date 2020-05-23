@@ -15,6 +15,7 @@ La principal tarea a realizar a la hora de rediseñar una página web es el anal
 se podría mejorar y cuales no habría que cambiar , de esta forma desde el principio ya tenemo claro que hacer.
 
 ## 1.1 Análisis Competitivo:
-Para realizar este análisis comparativo voy a comparar la página de erranT con una página de coworking en España ![Coworkingspain](https://coworkingspain.es/)
+Para realizar este análisis comparativo voy a comparar la página de erranT con una página de coworking en España
+[Coworkingspain](https://coworkingspain.es/)
 
 
