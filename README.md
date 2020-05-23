@@ -26,4 +26,6 @@ Para realizar este análisis comparativo voy a comparar la página de erranT con
 
 ## 1.2 Personas:
 
-Para representar el uso que se hace de la página web voy a crear a 2 usuarios ficticios los cuales harán uso de la página web mediante un User Journey Map
+Para observar la eficacia de la página web voy a crear a dos usuarios ficticios que usarán la página web de erranT: 
+
+
