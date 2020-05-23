@@ -59,3 +59,6 @@ Principalmente la página tiene el error que puede asustar al usuario cuando lo 
 Nota: 56 (Moderate)
 
 [Usabilty Review](Usability-review-final.pdf)
+
+# 2.Diseño UX
+
