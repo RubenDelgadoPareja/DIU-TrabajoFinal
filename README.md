@@ -62,3 +62,5 @@ Nota: 56 (Moderate)
 
 # 2.Diseño UX
 
+## 2.1 Feedback Capture Grid
+
