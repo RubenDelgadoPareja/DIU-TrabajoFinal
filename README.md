@@ -16,6 +16,8 @@ se podría mejorar y cuales no habría que cambiar , de esta forma desde el prin
 
 ## 1.1 Análisis Competitivo:
 Para realizar este análisis comparativo voy a comparar la página de erranT con una página de coworking en España
-[Coworkingspain](https://coworkingspain.es/)
+[Coworkingspain](https://coworkingspain.es/) la cual tiene muy buena pinta y funcionalmente es muy correcta, teniendo la misma funcionalidad de buscar espacios para realizar el coworking. Ahora realizare un listado de aspectos positivos y negativos de ambas páginas :
+
+-woehkrweiorn
 
 
