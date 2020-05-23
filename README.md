@@ -65,9 +65,10 @@ Nota: 56 (Moderate)
 ## 2.1 Feedback Capture Grid
 
 ## 2.2 Wireframe
+![Wireframe](wireframe.png)
 
 ## Logotipo 
-
+![Logotipo](logotipo.png)
 
 # Valoración Personal
 
