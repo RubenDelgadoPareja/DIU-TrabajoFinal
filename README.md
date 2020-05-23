@@ -28,5 +28,5 @@ Para realizar este análisis comparativo voy a comparar la página de erranT con
 
 Para observar la eficacia de la página web voy a crear a dos usuarios ficticios que usarán la página web de erranT: 
 ![Rosa Dominguez](rosa.png)
-
+![Alfredo Garcia](alfredo.png)
 
