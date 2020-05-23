@@ -54,4 +54,8 @@ A la hora de rediseñar tenemos que saber que es lo que busca el usuario- **Meta
 
 ## 1.4 Usability Review:
 
+Principalmente la página tiene el error que puede asustar al usuario cuando lo vea , al igual que también lo puede desconcertar, por otra parte no ayuda a la búsqueda de las tarifas aunque plantea correctamente los establecimientos. También aporta más información al final de la página y cuando se encuentran las tarifas permite ponerte en contacto con el establecimiento. Respecto al diseño es correcto pero podría mejorar los temas de los colores como el mapa y la tipología de la letra. No está adaptado para personas con discapacidades
+
+Nota: 56 (Moderate)
+
 [Usabilty Review](Usability-review-final.pdf)
