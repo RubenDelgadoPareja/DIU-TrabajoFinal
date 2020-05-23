@@ -31,5 +31,7 @@ Para observar la eficacia de la página web voy a crear a dos usuarios ficticios
 ![Alfredo Garcia](alfredo.png)
 Como estamos haciendo usuarios para una página web de coworking ambas tendrán , de alguna manera, hacer uso de dicha página web
 
+![Journey Map Rosa](rosa_JM.png)
+![Journey Map Alfredo](alfredo_JM.png)
 
 
